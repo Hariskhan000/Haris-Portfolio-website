@@ -51,13 +51,16 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 70%; /* Increase width */
+  height: 600px; 
   z-index: 1;
-
+  /* height: 600px; */
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  border-radius: 50%; /* Make it a circle */
+  overflow: hidden; /* Hide overflow content */
 }
 
 @keyframes floating {

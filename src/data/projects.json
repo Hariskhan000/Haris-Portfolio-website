@@ -1,26 +1,74 @@
 [
   {
-    "title": "Project A",
+    "title": "Project 1",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn the React languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://operations-in-react.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project B",
+    "title": "Project 2",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn the React languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://haris-dice-game.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project C",
+    "title": "Project 3",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the JS languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "React" , "Redux"],
+    "demo": "https://redux-react-cart-project.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 4",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the JS languages by building an app.",
+    "skills": ["HTML", "CSS", "JS" , "Bootstrap"],
+    "demo": "https://amazon-haris.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 5",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://haris-dice-game.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 6",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "Bootstrap"],
+    "demo": "https://currency-converter-haris.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 7",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "Bootstrap"],
+    "demo": "https://haris-tic-tac-toe.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 8",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "Bootstrap"],
+    "demo": "https://rock-paper-scissor-haris.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 9",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://to-do-haris.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
   }
 ]

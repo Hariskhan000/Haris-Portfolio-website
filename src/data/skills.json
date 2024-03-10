@@ -8,23 +8,31 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/boot.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node js",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
+    "title": "Mongo DB",
     "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/canva.png"
   }
 ]
