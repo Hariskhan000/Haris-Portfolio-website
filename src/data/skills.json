@@ -20,16 +20,16 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node js",
-    "imageSrc": "skills/node.png"
+    "title": "PHP",
+    "imageSrc": "skills/php.svg"
   },
   {
-    "title": "Mongo DB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Github",
+    "imageSrc": "skills/github.png"
   },
   {
     "title": "Canva",

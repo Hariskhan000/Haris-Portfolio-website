@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the React languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
-    "demo": "https://operations-in-react.netlify.app/",
+    "demo": "https://haris-react-e-commerce.netlify.app/",
     "source": "https://github.com/Hariskhan000"
   },
   {
@@ -12,11 +12,19 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the React languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
-    "demo": "https://haris-dice-game.netlify.app/",
+    "demo": "https://operations-in-react.netlify.app/",
     "source": "https://github.com/Hariskhan000"
   },
   {
     "title": "Project 3",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the React languages by building an app.",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://haris-dice-game.netlify.app/",
+    "source": "https://github.com/Hariskhan000"
+  },
+  {
+    "title": "Project 4",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the JS languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React" , "Redux"],
@@ -24,7 +32,7 @@
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 4",
+    "title": "Project 5",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the JS languages by building an app.",
     "skills": ["HTML", "CSS", "JS" , "Bootstrap"],
@@ -32,7 +40,7 @@
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 5",
+    "title": "Project 6",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
@@ -40,7 +48,7 @@
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 6",
+    "title": "Project 7",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
@@ -48,7 +56,7 @@
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 7",
+    "title": "Project 8",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
@@ -56,7 +64,7 @@
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 8",
+    "title": "Project 9",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
@@ -64,7 +72,7 @@
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 9",
+    "title": "Project 10",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
