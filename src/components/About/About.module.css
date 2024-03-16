@@ -68,25 +68,42 @@
 
 @media screen and (max-width: 830px) {
   .container {
-    background-color: transparent;
-    padding-left: 0;
-    padding-right: 0;
+    padding: 30px; /* Adjust padding for mobile */
+    margin-left: 5%; /* Adjust left margin */
+    margin-right: 5%; /* Adjust right margin */
+  }
+
+  .title {
+    font-size: 25px; /* Decrease title font size for mobile */
+    text-align: center; /* Center title text */
   }
 
   .content {
-    flex-direction: column;
+    flex-direction: column; /* Stack items vertically on mobile */
+    align-items: center; /* Center items horizontally */
   }
 
   .aboutImage {
-    display: none;
+    width: 100%; /* Make image full width on mobile */
+    max-width: 300px; /* Limit image width on smaller screens */
+    margin-bottom: 20px; /* Add spacing below image */
   }
 
   .aboutItems {
-    margin-top: 29px;
+    margin-top: 20px; /* Adjust margin for mobile */
   }
 
   .aboutItem {
-    padding-left: 0;
-    padding-right: 0;
+    padding: 20px; /* Adjust padding for mobile */
+  }
+
+  .aboutItem h3 {
+    font-size: 20px; /* Decrease heading font size for mobile */
+    text-align: center; /* Center heading text */
+  }
+
+  .aboutItem p {
+    font-size: 20px; 
   }
 }
+  

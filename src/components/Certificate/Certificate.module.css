@@ -44,15 +44,23 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
-    padding-left: 60px;
+    padding-left: 0; /* Remove left padding */
+    align-items: center; /* Center items horizontally */
+    text-align: center; /* Center text */
+  }
+  .text h2 {
+    font-size: 40px; /* Decrease heading font size for mobile */
+    margin-bottom: 20px; /* Decrease margin bottom */
+  }
+  .links {
+    gap: 20px; /* Adjust spacing between links */
   }
   .link {
     flex-direction: column; /* Align items vertically */
     align-items: center; /* Center horizontally */
     gap: 10px; /* Adjust spacing between elements */
   }
-
   .link img {
-    max-width: 100%; /* Ensure image fits within container */
+    max-width: 200px; /* Adjust certificate image size */
   }
 }

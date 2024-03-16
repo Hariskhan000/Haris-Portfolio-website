@@ -8,13 +8,12 @@ export const Contact = () => {
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
-        <p>Feel free to reach out!</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           <a href="mailto:hariskhan873715@gmail.com">
-            hariskhan873715@email.com
+            hariskhan873715@gmail.com
           </a>
         </li>
         <li className={styles.link}>
@@ -27,8 +26,21 @@ export const Contact = () => {
           </a>
         </li>
         <li className={styles.link}>
-          <img className="whatsapp" src={getImageUrl("contact/whatsapp.png")} alt="WhatsApp icon" />
+          <img
+            className="whatsapp"
+            src={getImageUrl("contact/whatsapp.png")}
+            alt="WhatsApp icon"
+          />
           <a href="https://wa.me/03166208746">Whatsapp Contact</a>
+        </li>
+        <li className={styles.link}>
+          <img
+            src={getImageUrl("contact/githubIcon.png")}
+            alt="LinkedIn icon"
+          />
+          <a href="https://www.linkedin.com/in/muhammad-khan-a55211286/">
+            https://github.com/Hariskhan000/{" "}
+          </a>
         </li>
       </ul>
     </footer>
