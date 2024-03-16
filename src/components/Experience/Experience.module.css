@@ -120,6 +120,8 @@
   .skills {
     width: 90%; /* Make skills section almost full width on mobile */
     gap: 20px; /* Adjust gap between skills on mobile */
+    /* align-items: center; */
+    justify-content: center;
   }
 
   .skillImageContainer {

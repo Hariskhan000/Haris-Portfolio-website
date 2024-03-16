@@ -11,7 +11,7 @@ export const Certificate = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <a href="https://drive.google.com/file/d/1V_eVCSq8mDF5M5LgbhvtSkEy2chCoJpV/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1V_eVCSq8mDF5M5LgbhvtSkEy2chCoJpV/view?usp=sharing" target="_blank">
             <img
               src={getImageUrl("contact/certificate.png")}
               alt="Certificate icon"
