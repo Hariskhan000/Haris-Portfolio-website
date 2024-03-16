@@ -1,7 +1,7 @@
 [
   {
     "title": "Project 1",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project1.jpg",
     "description": "This is a project made to learn the React languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
     "demo": "https://haris-react-e-commerce.netlify.app/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Project 2",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project2.jpg",
     "description": "This is a project made to learn the React languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
     "demo": "https://operations-in-react.netlify.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Project 3",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project3.jpg",
     "description": "This is a project made to learn the React languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
     "demo": "https://haris-dice-game.netlify.app/",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Project 4",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project4.jpg",
     "description": "This is a project made to learn the JS languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React" , "Redux"],
     "demo": "https://redux-react-cart-project.netlify.app/",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Project 5",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project5.jpg",
     "description": "This is a project made to learn the JS languages by building an app.",
     "skills": ["HTML", "CSS", "JS" , "Bootstrap"],
     "demo": "https://amazon-haris.netlify.app/",
@@ -41,39 +41,31 @@
   },
   {
     "title": "Project 6",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "JS", "React"],
-    "demo": "https://haris-dice-game.netlify.app/",
-    "source": "https://github.com/Hariskhan000"
-  },
-  {
-    "title": "Project 7",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project7.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
     "demo": "https://currency-converter-haris.netlify.app/",
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 8",
-    "imageSrc": "projects/project.png",
+    "title": "Project 7",
+    "imageSrc": "projects/project8.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
     "demo": "https://haris-tic-tac-toe.netlify.app/",
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 9",
-    "imageSrc": "projects/project.png",
+    "title": "Project 8",
+    "imageSrc": "projects/project9.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
     "demo": "https://rock-paper-scissor-haris.netlify.app/",
     "source": "https://github.com/Hariskhan000"
   },
   {
-    "title": "Project 10",
-    "imageSrc": "projects/project.png",
+    "title": "Project 9",
+    "imageSrc": "projects/project10.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML", "CSS", "JS", "React"],
     "demo": "https://to-do-haris.netlify.app/",
