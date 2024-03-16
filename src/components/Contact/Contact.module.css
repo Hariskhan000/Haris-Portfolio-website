@@ -18,8 +18,6 @@
   letter-spacing: 4px;
 }
 
-
-
 .links {
   display: flex;
   flex-direction: column;
@@ -53,8 +51,6 @@
     letter-spacing: 3px; /* Decrease letter spacing */
   }
 
- 
-
   .links {
     align-items: center; /* Center items horizontally */
   }
@@ -66,7 +62,7 @@
   }
 
   .link a {
-    font-size: 20px; /* Decrease link font size for mobile */
+    font-size: 14px; /* Decrease link font size for mobile */
     letter-spacing: 1px; /* Decrease letter spacing */
   }
 }

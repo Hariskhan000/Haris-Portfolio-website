@@ -52,7 +52,7 @@
 
 .heroImg {
   width: 70%; /* Increase width */
-  height: 600px; 
+  height: 600px;
   z-index: 1;
   /* height: 600px; */
   animation-name: floating;
@@ -142,4 +142,16 @@
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+.heroImg {
+  width: 90%; /* Increase width */
+  height: 400px;
+  z-index: 1;
+  /* height: 600px; */
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  border-radius: 50%; /* Make it a circle */
+  overflow: hidden; /* Hide overflow content */
 }

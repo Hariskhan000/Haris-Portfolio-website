@@ -2,7 +2,7 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 79px;
+  margin-top: 75px;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -101,20 +101,62 @@
 }
 
 @media screen and (max-width: 830px) {
+  .container {
+    margin-left: 5%; /* Adjust left margin for mobile */
+    margin-right: 5%; /* Adjust right margin for mobile */
+  }
+
+  .title {
+    font-size: 30px; /* Decrease title font size for mobile */
+    text-align: center; /* Center title text on mobile */
+  }
+
   .content {
-    flex-direction: column;
-    align-items: center;
-    gap: 34px;
+    flex-direction: column; /* Stack items vertically on mobile */
+    align-items: center; /* Center items horizontally on mobile */
+    gap: 20px; /* Adjust gap between elements on mobile */
   }
 
   .skills {
-    width: 100%;
-    flex-direction: row;
-    justify-content: center;
+    width: 90%; /* Make skills section almost full width on mobile */
+    gap: 20px; /* Adjust gap between skills on mobile */
+  }
+
+  .skillImageContainer {
+    width: 100px; /* Decrease skill image container width for mobile */
+    height: 100px; /* Decrease skill image container height for mobile */
+  }
+
+  .skill p {
+    font-size: 20px; /* Decrease skill paragraph font size for mobile */
   }
 
   .history {
-    width: 100%;
-    gap: 9px;
+    margin-top: 30px;
+    width: 90%; /* Make history section almost full width on mobile */
+    gap: 20px; /* Adjust gap between history items on mobile */
+  }
+
+  .historyItem {
+    padding: 16px; /* Adjust padding for history items on mobile */
+    flex-direction: column;
+  }
+
+  .historyItem img {
+    width: 40px; /* Decrease history item image width for mobile */
+  }
+
+  .historyItemDetails h3 {
+    font-size: 15px; /* Decrease history item heading font size for mobile */
+  }
+
+  .historyItemDetails p {
+    margin-top: 5px;
+    font-size: 12px; /* Decrease history item paragraph font size for mobile */
+  }
+
+  .historyItemDetails ul {
+    font-size: 12px; /* Decrease history item list font size for mobile */
+    margin-left: -2px; /* Adjust margin left for mobile */
   }
 }

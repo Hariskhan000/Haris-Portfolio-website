@@ -71,6 +71,7 @@
     padding: 30px; /* Adjust padding for mobile */
     margin-left: 5%; /* Adjust left margin */
     margin-right: 5%; /* Adjust right margin */
+    /* flex-direction: column; */
   }
 
   .title {
@@ -86,15 +87,18 @@
   .aboutImage {
     width: 100%; /* Make image full width on mobile */
     max-width: 300px; /* Limit image width on smaller screens */
-    margin-bottom: 20px; /* Add spacing below image */
+    margin-bottom: 10px; /* Add spacing below image */
+    align-items: center;
   }
 
   .aboutItems {
     margin-top: 20px; /* Adjust margin for mobile */
+    text-align: center;
   }
 
   .aboutItem {
     padding: 20px; /* Adjust padding for mobile */
+    flex-direction: column;
   }
 
   .aboutItem h3 {
@@ -103,7 +107,6 @@
   }
 
   .aboutItem p {
-    font-size: 20px; 
+    font-size: 20px;
   }
 }
-  
